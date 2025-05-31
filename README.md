@@ -10,6 +10,7 @@ Pandas,Numpy,Plotty,Scikit-Learn,K-Means Clustering
 # Description
 1.Used a dataset containing customer details like Payment history ,Credit utilization ratio ,loan amount, intrest rate , employment status.
 2.Implemented a weighted formula inspired by FICO scoring model to assign credit scores based on key functional features.
+
 3.Applied k-means clustering algorithm to group customer into four categories : Very low, Low ,Good,Excellent .
 4.
 
