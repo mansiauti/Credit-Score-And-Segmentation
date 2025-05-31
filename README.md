@@ -3,4 +3,9 @@ Financial Institution need an effective way to evaluate customers creditworthine
 The goal of this project is to calculate the credit score based on key financial indications and segment customers into different categories.
 
 #Technologies used 
-*Python
+Python
+Pandas,Numpy,Plotty
+Scikit-Learn
+K-Means Clustering
+
+
